@@ -1,43 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Admonitions/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Home/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Diagrams/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Malik/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Icons%2C%20Emojis/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Admonitions/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Image/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Diagrams/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/LaTeX%20Math%20Support/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Icons%2C%20Emojis/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Table/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Image/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/Text%20Formatting/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/LaTeX%20Math%20Support/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/code/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Table/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
     <url>
-         <loc>https://atticuszeller.github.io/mkdocs-obsidian-template/Features/footntoes/</loc>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/Text%20Formatting/</loc>
+         <lastmod>2025-02-28</lastmod>
+    </url>
+    <url>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/code/</loc>
+         <lastmod>2025-02-28</lastmod>
+    </url>
+    <url>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Features/footntoes/</loc>
          <lastmod>2025-02-28</lastmod>
     </url>
 </urlset>
