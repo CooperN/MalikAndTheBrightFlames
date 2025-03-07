@@ -11,13 +11,48 @@
             "id": "5e04f9d1a08afcf5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/dataview/main.js",
-                "staged": false
+                "file": "Characters/Malik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (main.js)"
+              "icon": "lucide-file",
+              "title": "Malik"
+            }
+          },
+          {
+            "id": "55097acae063c65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Mesmer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mesmer"
             }
           },
           {
@@ -52,7 +87,8 @@
               "title": "Changelog"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,23 +268,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5e04f9d1a08afcf5",
+  "active": "55097acae063c65f",
   "lastOpenFiles": [
+    "Characters/Malik.md",
+    "Characters/Mesmer.md",
+    "assets/Image example.png",
+    "assets/png_flowchart.png",
+    "assets/Flowcharts.png",
+    "assets/logo/logo.svg",
     "Features/Admonitions.md",
     "Features/code.md",
     "Features/Diagrams.md",
     "Features/Icons, Emojis.md",
     "Features/footntoes.md",
-    "Characters/Malik.md",
-    "assets/logo/logo.svg",
     "assets/png_N_background.png",
-    "assets/png_flowchart.png",
     "assets/Pasted image 20241126134036.png",
     "assets/Pasted image 20241126134137.png",
     "assets/inverted_image.png",
-    "assets/Image example.png",
     "assets/Flowcharts (2).svg",
-    "assets/Flowcharts.png",
     "Features/Image.md",
     "Home.md",
     "Untitled.canvas",
