@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mesmer.md",
+                "file": "Characters/Malik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mesmer"
+              "title": "Malik"
             }
           },
           {
@@ -270,12 +270,16 @@
   },
   "active": "55097acae063c65f",
   "lastOpenFiles": [
-    "Characters/Malik.md",
+    "assets/logo/logo.svg",
+    "assets/logo/logoold.svg",
+    "assets/logo/QoUf5C01.svg",
+    "assets/logo/logo2.svg",
     "Characters/Mesmer.md",
+    "Home.md",
+    "Characters/Malik.md",
     "assets/Image example.png",
     "assets/png_flowchart.png",
     "assets/Flowcharts.png",
-    "assets/logo/logo.svg",
     "Features/Admonitions.md",
     "Features/code.md",
     "Features/Diagrams.md",
@@ -285,12 +289,9 @@
     "assets/Pasted image 20241126134036.png",
     "assets/Pasted image 20241126134137.png",
     "assets/inverted_image.png",
-    "assets/Flowcharts (2).svg",
     "Features/Image.md",
-    "Home.md",
     "Untitled.canvas",
     "index.md",
-    "image.png",
     "CS/OS/Ubuntu/Package.md",
     "CS/OS/Ubuntu/System.md",
     "Learning/Computer Vison/3D.md",
@@ -306,7 +307,6 @@
     "CS/Language/C++/Data_model/map.md",
     "Features/LaTeX Math Support.md",
     "Features/Text Formatting.md",
-    "Features/Table.md",
     "Learning/Computer Vison",
     "CS/OS/default-clipper.json",
     "Reference/obsidian",
