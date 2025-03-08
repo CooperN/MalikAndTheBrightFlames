@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Malik.md",
+                "file": "Characters/AA_Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Malik"
+              "title": "AA_Overview"
             }
           },
           {
@@ -270,13 +270,14 @@
   },
   "active": "55097acae063c65f",
   "lastOpenFiles": [
+    "Characters/Malik.md",
+    "Characters/AA_Overview.md",
     "assets/logo/logo.svg",
     "assets/logo/logoold.svg",
     "assets/logo/QoUf5C01.svg",
     "assets/logo/logo2.svg",
     "Characters/Mesmer.md",
     "Home.md",
-    "Characters/Malik.md",
     "assets/Image example.png",
     "assets/png_flowchart.png",
     "assets/Flowcharts.png",
@@ -288,7 +289,6 @@
     "assets/png_N_background.png",
     "assets/Pasted image 20241126134036.png",
     "assets/Pasted image 20241126134137.png",
-    "assets/inverted_image.png",
     "Features/Image.md",
     "Untitled.canvas",
     "index.md",
