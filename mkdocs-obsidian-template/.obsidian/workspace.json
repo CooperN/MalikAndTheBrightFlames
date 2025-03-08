@@ -37,6 +37,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Characters/Malik.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Malik"
+            }
+          },
+          {
+            "id": "916b16b1489f666b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Dain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dain"
+            }
+          },
+          {
+            "id": "69308d18f0148b0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Characters/AA_Overview.md",
                 "mode": "source",
                 "source": false,
@@ -88,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -268,11 +316,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "55097acae063c65f",
+  "active": "69308d18f0148b0b",
   "lastOpenFiles": [
-    "Characters/Malik.md",
+    "Characters/Tazendal.md",
     "Characters/AA_Overview.md",
+    "Characters/Ragnar.md",
+    "Characters/Dain.md",
+    "Characters/Malik.md",
     "assets/logo/logo.svg",
+    "assets/logo/flame.svg",
+    "assets/logo/Brightflameslogo.svg",
     "assets/logo/logoold.svg",
     "assets/logo/QoUf5C01.svg",
     "assets/logo/logo2.svg",
@@ -287,8 +340,6 @@
     "Features/Icons, Emojis.md",
     "Features/footntoes.md",
     "assets/png_N_background.png",
-    "assets/Pasted image 20241126134036.png",
-    "assets/Pasted image 20241126134137.png",
     "Features/Image.md",
     "Untitled.canvas",
     "index.md",
@@ -304,9 +355,6 @@
     "CS/Language/C++/STL/map.md",
     "CS/Language/C++/packages.md",
     "CS/Language/C++/Data_model/unordered_map.md",
-    "CS/Language/C++/Data_model/map.md",
-    "Features/LaTeX Math Support.md",
-    "Features/Text Formatting.md",
     "Learning/Computer Vison",
     "CS/OS/default-clipper.json",
     "Reference/obsidian",
