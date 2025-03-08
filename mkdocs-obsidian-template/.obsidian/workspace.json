@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Malik.md",
+                "file": "Characters/Players/Malik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Dain.md",
+                "file": "Characters/Players/Dain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/AA_Overview.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AA_Overview"
+              "title": "Home"
             }
           },
           {
@@ -304,6 +304,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
@@ -313,24 +314,34 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "69308d18f0148b0b",
   "lastOpenFiles": [
-    "Characters/Tazendal.md",
+    "Characters/Players/Dain.md",
+    "Journal/Characters.md",
+    "Home.md",
     "Characters/AA_Overview.md",
-    "Characters/Ragnar.md",
-    "Characters/Dain.md",
-    "Characters/Malik.md",
+    "Journal/Sessions/01.md",
+    "Characters/Players/Tazendal.md",
+    "Journal/Battles.md",
+    "Journal/Quests.md",
+    "Journal/Loot.md",
+    "Journal/Chronicles.md",
+    "Journal/Sessions",
     "assets/logo/logo.svg",
-    "assets/logo/flame.svg",
     "assets/logo/Brightflameslogo.svg",
+    "Journal",
+    "Characters/Players/Malik.md",
+    "Characters/Players",
+    "Characters/Players/Ragnar.md",
+    "assets/logo/flame.svg",
     "assets/logo/logoold.svg",
     "assets/logo/QoUf5C01.svg",
     "assets/logo/logo2.svg",
-    "Characters/Mesmer.md",
-    "Home.md",
+    "Characters/Players/Mesmer.md",
     "assets/Image example.png",
     "assets/png_flowchart.png",
     "assets/Flowcharts.png",
@@ -349,12 +360,6 @@
     "Learning/Computer Vison/Image.md",
     "CS/OS/Ubuntu/sync.md",
     "Features/Draw.md",
-    "CS/Language/C++/STL/String.md",
-    "CS/Language/C++/STL/Queue.md",
-    "CS/Language/C++/STL/algorithm.md",
-    "CS/Language/C++/STL/map.md",
-    "CS/Language/C++/packages.md",
-    "CS/Language/C++/Data_model/unordered_map.md",
     "Learning/Computer Vison",
     "CS/OS/default-clipper.json",
     "Reference/obsidian",
@@ -362,9 +367,6 @@
     "Reference/blog/Steph Ango",
     "Reference/blog",
     "Reference/linux",
-    "Reference",
-    "assets/Wallpapaer",
-    "CS/Frontend/React",
     "未命名.canvas",
     "未命名 3.canvas",
     "未命名 2.canvas",

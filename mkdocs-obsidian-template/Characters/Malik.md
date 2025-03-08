@@ -1,3 +1,0 @@
-# Malik
-
-This has info for Malik in it

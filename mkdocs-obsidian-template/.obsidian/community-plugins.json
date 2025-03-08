@@ -17,5 +17,9 @@
   "obsidian-export-image",
   "terminal",
   "find-unlinked-files",
-  "vertical-tabs"
+  "vertical-tabs",
+  "dataview",
+  "obsidian42-brat",
+  "dataview-publisher",
+  "checkbox-time-tracker"
 ]
