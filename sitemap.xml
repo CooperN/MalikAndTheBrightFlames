@@ -2,50 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Home/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Dain/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Jacob/</loc>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Malik/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Mesmer/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Ragnar/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Svengali/</loc>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Characters/Players/Tazendal/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Battles/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Characters/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Chronicles/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Loot/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Quests/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
     <url>
          <loc>https://coopern.github.io/MalikAndTheBrightFlames/Journal/Sessions/01/</loc>
-         <lastmod>2025-03-08</lastmod>
+         <lastmod>2025-03-23</lastmod>
     </url>
 </urlset>
