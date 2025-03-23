@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Characters/Players/Svengali.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Svengali"
             }
           },
           {
@@ -314,17 +314,19 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "terminal:Open terminal": false,
-      "publish:Publish changes...": false
+      "terminal:Open terminal": false
     }
   },
   "active": "69308d18f0148b0b",
   "lastOpenFiles": [
+    "Characters/Players/Mesmer.md",
     "Characters/Players/Dain.md",
     "Journal/Characters.md",
+    "Characters/Players/Jacob.md",
     "Home.md",
-    "Characters/AA_Overview.md",
     "Journal/Sessions/01.md",
+    "Characters/Players/Svengali.md",
+    "Characters/AA_Overview.md",
     "Characters/Players/Tazendal.md",
     "Journal/Battles.md",
     "Journal/Quests.md",
@@ -341,7 +343,6 @@
     "assets/logo/logoold.svg",
     "assets/logo/QoUf5C01.svg",
     "assets/logo/logo2.svg",
-    "Characters/Players/Mesmer.md",
     "assets/Image example.png",
     "assets/png_flowchart.png",
     "assets/Flowcharts.png",
@@ -358,8 +359,6 @@
     "CS/OS/Ubuntu/System.md",
     "Learning/Computer Vison/3D.md",
     "Learning/Computer Vison/Image.md",
-    "CS/OS/Ubuntu/sync.md",
-    "Features/Draw.md",
     "Learning/Computer Vison",
     "CS/OS/default-clipper.json",
     "Reference/obsidian",
